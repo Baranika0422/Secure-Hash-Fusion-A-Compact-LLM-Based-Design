@@ -54,6 +54,7 @@ Used LLM assistance to optimize and generalize cryptographic RTL code
 Achieved efficient timing: ~1.52 µs (SHA-1) and 1.2 µs (SHA-256) per hash
 
 ****Future Work****
+
 Deploy and validate design on real FPGA hardware
 
 Optimize power, area, and timing for ASIC-level implementation
